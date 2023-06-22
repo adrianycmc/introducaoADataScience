@@ -6,8 +6,8 @@ Um projeto de análise de dados usando Python, trabalhando com dados da bibliote
 | :sparkles: Nome  | **Análise de dados**
 | ----------  | --- |
 | :label: Tecnologias | Python, Pandas e Jupyter
-| :rocket: URL       | [Código]()
-| 🌐 Status | Em desenvolvimento
+| :rocket: URL       | [Projeto](https://github.com/adrianycmc/introducaoADataScience/blob/main/introdu_o_a_data_science.ipynb)
+| 🌐 Status | Finalizado
 
 ## Detalhes do projeto
 
