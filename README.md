@@ -26,3 +26,7 @@ Meu primeiro contato com Python manipulando dados com a biblioteca pública do P
 <p align="left">
   Caso queira trocar entrar em contato: ⤵️
 </p>
+<p align="left">  
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianycmc/)
+</p>
